@@ -27,9 +27,13 @@ Composer is a package manager application for the PHP programming language that 
 
 ## Installation
 create a database in phpmy admin with the name db_laravel_rajaongkir and configure it in the .env file by changing it to
+
 DB_DATABASE=db_laravel_rajaongkir
+
 DB_USERNAME=root
+
 DB_PASSWORD=
+
 ```sh
 git clone https://github.com/dimaswildanR3/test-dimaswildanR3-test-PT.-Digdaya-Olah-Teknologi-DOT-.git
 composer install
